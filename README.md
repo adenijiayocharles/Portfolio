@@ -15,7 +15,7 @@
 
 
 ### Ungoing
-- Maki Oh - a fashion e-commerce website (backend development) - Laravel [view](https://www.beta.makioh.com)
+- Maki Oh - a fashion e-commerce website (backend development) - Laravel [view](https://www.makioh.com)
 ![Maki Oh](/images/5.png)
 
 - Sigoja - a kitchen utensils e-commerce website - Laravel [view](https://www.beta.sigoja.com)
