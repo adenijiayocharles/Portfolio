@@ -14,11 +14,15 @@
 ![Freight Empire](/images/3.png)
 
 
-### Ungoing
 - Maki Oh - a fashion e-commerce website (backend development) - Laravel [view](https://www.makioh.com)
 ![Maki Oh](/images/5.png)
 
-- Sigoja - a kitchen utensils e-commerce website - Laravel [view](https://www.beta.sigoja.com)
+- Knox Result Management System - a result management system for primary and secondary school - PHP [view](http://knoxweb.com.ng/knox/admin/home.php)
+![Maki Oh](/images/6.png)
+
+### Ungoing
+
+- Sigoja - a kitchen utensils e-commerce website - Laravel [view](https://www.beta.halitelabs.com)
 ![Sigoja](/images/4.png)
 
 
