@@ -22,7 +22,7 @@
 
 ### Ungoing
 
-- Sigoja - a kitchen utensils e-commerce website - Laravel [view](https://www.beta.halitelabs.com)
+- Sigoja - a kitchen utensils e-commerce website - Laravel [view](https://www.sigoja.halitelabs.com)
 ![Sigoja](/images/4.png)
 
 
